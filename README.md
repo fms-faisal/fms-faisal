@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/xm5sS3K/github-header-image-1.png)
+![Banner](https://i.ibb.co/swpK4hS/github-header-image-1.png)
 
 I’m a passionate Frontend Developer skilled in **ReactJS**, **JavaScript**, and **ExpressJS**. I’ve worked on several projects and learning **Python**.
 
